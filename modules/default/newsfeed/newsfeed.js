@@ -17,6 +17,71 @@ Module.register("newsfeed",{
 				url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
 				encoding: "UTF-8" //ISO-8859-1
 			}
+			{
+				title: "CBC.ca",
+				url: "https://rss.cbc.ca/lineup/topstories.xml",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "CTV News - Top Stories",
+				url: "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "CTV - Politics",
+				url: "https://www.ctvnews.ca/rss/ctvnews-ca-politics-public-rss-1.822302",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "CoinTelegraph - Editors Pick",
+				url: "https://cointelegraph.com/editors_pick_rss",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "CoinDesk",
+				url: "https://feeds.feedburner.com/CoinDesk",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "Wired",
+				url: "https://www.wired.com/feed/rss",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "GQ",
+				url: "https://www.gq.com/feed/rss",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "Socialist.ca",
+				url: "http://www.socialist.ca/rss.xml",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "RT",
+				url: "https://www.rt.com/rss/",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "Breitbart",
+				url: "http://feeds.feedburner.com/breitbart",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "Washington Post",
+				url: "http://feeds.washingtonpost.com/rss/politics",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "Reddit - Crypto",
+				url: "https://www.reddit.com/r/CryptoCurrency",
+				encoding: "UTF-8" //ISO-8859-1
+			}
+			{
+				title: "Crypto Potato",
+				url: "https://bitrss.com/source/69/cryptopotato-com",
+				encoding: "UTF-8" //ISO-8859-1
+			}
 		],
 		showSourceTitle: true,
 		showPublishDate: true,
